@@ -1,0 +1,1 @@
+# Confirmation Widget (e.g SMS)
