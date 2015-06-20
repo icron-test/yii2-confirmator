@@ -14,5 +14,8 @@ new \yii\console\Application([
                 'basePath' => '@tests/assets',
                 'baseUrl' => '/',
             ],
+            'session' => [
+                'class' => 'tests\Session',
+            ],
         ],
     ]);
